@@ -1,0 +1,40 @@
+{
+    "project_info": {
+      "project_number": "945592251671",
+      "firebase_url": "https://wallpapers-cb4dd.firebaseio.com",
+      "project_id": "wallpapers-cb4dd",
+      "storage_bucket": "wallpapers-cb4dd.appspot.com"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:945592251671:android:543f0f1eaa73242b2c7352",
+          "android_client_info": {
+            "package_name": "com.example.wallpapers"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "945592251671-jhrumbjgv3kc9s18q43dahi99f1sm0f0.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyAHacPgP8oG2vgWYySeSnRhooqwYQP-oJA"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "945592251671-jhrumbjgv3kc9s18q43dahi99f1sm0f0.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
